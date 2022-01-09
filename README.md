@@ -8,15 +8,15 @@ An upcoming playwriter is looking to crowdfund her play Fever, whch has an estim
 How analysis was performed and challenges encountered?
 In order to assist Louise, we examined data set of campaigns across different categories and subcategories, the countries where the campaigns were held and the currencies, the goals per campaign and the amount pledged, the number of backers, the length and months of campaigns, the outcomes per campaign, the spotlight and the staff pick per campaign.
 
-*** Perecentage funded***We calculated percentage funded to determine how much of campaign goals were met and how close a campaign came to meeting or exceeding its goals.
+***Perecentage funded*** We calculated percentage funded to determine how much of campaign goals were met and how close a campaign came to meeting or exceeding its goals.
 We highlighted the outcomes to reveal the successful, failed, canceled and live campaigns. 
 On rearranging pledge data, we found that campaigns in the US ranked higher in success than those in GB and was the most pledged was over $100000 and ahigh number of backers. Louise might wish to look more into the US for crowd funding.
 
 
-*** Average donation***WE calcuated average donations of pledge in relation to backers and found that most backers were in US.
+***Average donation*** WE calcuated average donations of pledge in relation to backers and found that most backers were in US.
 
 
-*** Country*** We examined the countries to see if the origin of the country had an impact on the success of the campaigns. We couldnt find a clear correlation. The tining appears to be of more significance. However US campaigns appear to have a lot more backers than those of GB and more successful funding of more expensive campaigns.
+***Country*** We examined the countries to see if the origin of the country had an impact on the success of the campaigns. We couldnt find a clear correlation. The tining appears to be of more significance. However US campaigns appear to have a lot more backers than those of GB and more successful funding of more expensive campaigns.
 
 
 ***Timing*** / Outcome based on Launch date. We tried to determine teh correlation between length of campaigna and its success to assess whether a campaign should be short or long for more effectiveness. Also are there periods a campaign is more successful? There appeared to be a positive correlation between campaigns launched in May/June and success rate. Also there was increase in success rate for camoaigns which lasted an average on one month.
