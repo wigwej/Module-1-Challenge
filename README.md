@@ -22,10 +22,13 @@ also are there periods a campaign is more successful?
 
 **Results**
 conclusions in Theater Outcomes by Launch Date
-**Conclusions frpm Outcome based on Goals
-***limitations of te dataset
+
+**Conclusions from Outcome based on Goals***
+Most successful projects in relation to the total projects wre those below $5000. projects with goals between $35000-$45000 wre very few but had relative success. Lousie project had a greater chance of 100% success if it fell below the $5000 range.
+***limitations of the dataset***
 The dataset is widely varied across different categories. There is a difficukty of selecting a representative category.
 Chances of bias depending on choice of sample location. 
-Need for more specific knoweledge of the nature of the play "Fever" for better compasrison. No clear understaning of there is a correlation between the nature of the type of play and the funds pledged.Data provided was limited to pledge and goals
-what other possible tables/graphs could we create?
+Need for more specific knoweledge of the nature of the play "Fever" for better compasrison. No clear understaning of there is a correlation between the nature of the type of play and the funds pledged.Data provided was limited to pledge and goals.
+Type of sampling method is unknown.
+**what other possible tables/graphs could we create?**
 We could create a pie chart to compare proportions of funding per category; or a scatter plot to display values of two comaparative categories such as theatres and plays. We could also use a histogram to chart funding per category.
