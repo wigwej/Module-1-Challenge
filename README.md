@@ -15,8 +15,8 @@ On rearranging pledge data, we found that ....... was the most pledged and had .
 ***Timing*** / Outcome based on Launch date. We tried to determine teh correlation between length of campaigna and its success to assess whether a campaign should be short or long for more effectiveness.
 also are there periods a campaign is more successful?
 ***Unique campaigns*** and edinbugh research. we examined unique campaigns to see if some were similar to Lousise's vision. we examined  Foresight, Be prepared, Walken in Sunshine, Jesia and 
-***Measures of central tendency/ descriptive sttaistices" Recognising that it is mores useful to Louise to use actual calculations such as mean, median, mode to assess the data
-***meausres of spread*** such as range, standard devistion, variance to deteremine how far the camapaign is from the mean. We used the box and whiskers to dtermine the upper quaartile, lower quaruile and the inter quartuke range and to identify and eliminate outliers.
+***Measures of central tendency and spread*** Recognising that it is mores useful to Louise to use actual calculations such as mean, median, mode to assess the data. The average successful goal was about $5000 while the median was $3000, with a standard deviation of over $7000; while the upper 25% of $5000 and  a lower 25% of $1500. the inyet quartile range was $3500. The amount pledged fell roughly within same range. Please refer to chart on descriptive statistics. The campaigns which failed had amost a double average funding goal and could only muster about a half in pledges.Louise should tailor her campaign closer to the mean. Please refer to the Box and Whiskers chart.
+Only a few outliers needed to be eliminated from the data of value 1.5 times higher than the Interquartile range.
 
 ***Challenges***
 
