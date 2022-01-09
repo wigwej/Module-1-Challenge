@@ -16,17 +16,19 @@ On rearranging pledge data, we found that ....... was the most pledged and had .
 also are there periods a campaign is more successful?
 ***Unique campaigns*** and edinbugh research. we examined unique campaigns to see if some were similar to Lousise's vision. we examined  Foresight, Be prepared, Walken in Sunshine, Jesia and 
 ***Measures of central tendency/ descriptive sttaistices" Recognising that it is mores useful to Louise to use actual calculations such as mean, median, mode to assess the data
-***meausres of spread*** such as range, standard devistion, variance to dteremine how far the camapaign is from the mean. We used the box and whiskers to dtermine the upper quaartile, lower quaruile and the inter quartuke range and to identify and eliminate outliers.
+***meausres of spread*** such as range, standard devistion, variance to deteremine how far the camapaign is from the mean. We used the box and whiskers to dtermine the upper quaartile, lower quaruile and the inter quartuke range and to identify and eliminate outliers.
 
 ***Challenges***
 
 **Results**
 conclusions in Theater Outcomes by Launch Date
+The largest number of campaigns took place in 2015. The most successful campaign was in summer of 2015 about the months of May and June. Also the most failed and canceled campaigns were within same period. The trends of succes/failure appear to correlate with the number of campaigns.However in 2017 there was a noose dive of the campaigns. However 2013 was highest percentage of success rate in relation to the total number of campaigns.The month of February ranked the highest success followed by May and June.
+In general, Louise could tailor her campaign to fall within the summer months.
 
 **Conclusions from Outcome based on Goals***
 Most successful projects in relation to the total projects wre those below $5000. projects with goals between $35000-$45000 wre very few but had relative success. Lousie project had a greater chance of 100% success if it fell below the $5000 range.
 ***limitations of the dataset***
-The dataset is widely varied across different categories. There is a difficukty of selecting a representative category.
+The dataset is widely varied across different categories. There is a difficulty of selecting a representative category.
 Chances of bias depending on choice of sample location. 
 Need for more specific knoweledge of the nature of the play "Fever" for better compasrison. No clear understaning of there is a correlation between the nature of the type of play and the funds pledged.Data provided was limited to pledge and goals.
 Type of sampling method is unknown.
