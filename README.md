@@ -18,10 +18,14 @@ also are there periods a campaign is more successful?
 ***Measures of central tendency/ descriptive sttaistices" Recognising that it is mores useful to Louise to use actual calculations such as mean, median, mode to assess the data
 ***meausres of spread*** such as range, standard devistion, variance to dteremine how far the camapaign is from the mean. We used the box and whiskers to dtermine the upper quaartile, lower quaruile and the inter quartuke range and to identify and eliminate outliers.
 
-
+***Challenges***
 
 **Results**
 conclusions in Theater Outcomes by Launch Date
 **Conclusions frpm Outcome based on Goals
 ***limitations of te dataset
+The dataset is widely varied across different categories. There is a difficukty of selecting a representative category.
+Chances of bias depending on choice of sample location. 
+Need for more specific knoweledge of the nature of the play "Fever" for better compasrison. No clear understaning of there is a correlation between the nature of the type of play and the funds pledged.Data provided was limited to pledge and goals
 what other possible tables/graphs could we create?
+We could create a pie chart to compare proportions of funding per category; or a scatter plot to display values of two comaparative categories such as theatres and plays. We could also use a histogram to chart funding per category.
